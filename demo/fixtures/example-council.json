@@ -1,0 +1,70 @@
+{
+  "id": "example-council",
+  "label": "Example Council (demo)",
+  "about": "A made-up council website. Every page, task and list here is invented for the demo, and the videos are placeholder title cards.",
+  "origin": "https://example.org",
+  "host": "example.org",
+  "colours": { "accent": "#1d6eb7", "button": "#1d6eb7", "mark": "#1d6eb7" },
+  "rights": { "unofficial": "Demo guide. Example Council is fictional and the videos are placeholders." },
+  "limits": { "maxTasks": 3, "maxDurationSec": 300 },
+  "home": "/",
+  "pages": {
+    "/": { "title": "Example Council homepage", "hub": true, "depth": 0 },
+    "/bins": { "title": "Bins and recycling", "hub": true, "depth": 1 },
+    "/bins/collection-day": { "title": "Check your collection day", "hub": false, "depth": 2 },
+    "/libraries": { "title": "Libraries", "hub": true, "depth": 1 },
+    "/libraries/join": { "title": "Join the library", "hub": false, "depth": 2 },
+    "/libraries/opening-hours": { "title": "Library opening hours", "hub": false, "depth": 2 },
+    "/parking": { "title": "Parking", "hub": true, "depth": 1 },
+    "/parking/resident-permit": { "title": "Resident parking permits", "hub": false, "depth": 2 }
+  },
+  "tasks": [
+    {
+      "id": "bin-day",
+      "title": "Check your bin collection day",
+      "stage": "lookup",
+      "keywords": ["bin", "bins", "rubbish", "recycling", "waste", "collection", "collected"],
+      "page_url": "https://example.org/bins/collection-day",
+      "segments": [
+        { "from": "/", "to": "/bins", "label": "Tap Bins and recycling" },
+        { "from": "/bins", "to": "/bins/collection-day", "label": "Tap Check your collection day" }
+      ]
+    },
+    {
+      "id": "library-card",
+      "title": "Join the library",
+      "stage": "action",
+      "keywords": ["library card", "join", "borrow", "books", "member", "membership"],
+      "page_url": "https://example.org/libraries/join",
+      "you_will_need": { "groups": [{ "items": ["proof of your address, such as a recent letter", "a photo ID"] }] },
+      "segments": [
+        { "from": "/", "to": "/libraries", "label": "Tap Libraries" },
+        { "from": "/libraries", "to": "/libraries/join", "label": "Tap Join the library" }
+      ]
+    },
+    {
+      "id": "parking-permit",
+      "title": "Apply for a resident parking permit",
+      "stage": "action",
+      "keywords": ["parking", "permit", "park", "car", "resident"],
+      "page_url": "https://example.org/parking/resident-permit",
+      "you_will_need": { "groups": [{ "items": ["your vehicle registration number"] }] },
+      "segments": [
+        { "from": "/", "to": "/parking", "label": "Tap Parking" },
+        { "from": "/parking", "to": "/parking/resident-permit", "label": "Tap Resident parking permits" }
+      ]
+    },
+    {
+      "id": "library-hours",
+      "title": "See library opening hours",
+      "stage": "information",
+      "keywords": ["opening hours", "opening times", "hours", "closed", "open late"],
+      "page_url": "https://example.org/libraries/opening-hours",
+      "segments": [
+        { "from": "/", "to": "/libraries", "label": "Tap Libraries" },
+        { "from": "/libraries", "to": "/libraries/opening-hours", "label": "Tap Opening hours" }
+      ]
+    }
+  ],
+  "chips": ["bin-day", "library-card", "parking-permit"]
+}

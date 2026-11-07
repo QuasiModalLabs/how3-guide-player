@@ -1,0 +1,500 @@
+{
+ "mobile": {
+  "card-bin-day-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "seg-bin-day-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-bin-day-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-bin-day": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-card-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-card-need": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-card-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-card-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-library-card": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-parking-permit-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-parking-permit-need": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-parking-permit-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-parking-permit-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-parking-permit": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-hours-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "seg-library-hours-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-hours-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-library-hours": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-end": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  }
+ },
+ "desktop": {
+  "card-bin-day-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "seg-bin-day-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-bin-day-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-bin-day": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-card-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-card-need": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-card-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-card-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-library-card": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-parking-permit-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-parking-permit-need": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-parking-permit-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-parking-permit-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-parking-permit": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-library-hours-intro": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "seg-library-hours-1": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "seg-library-hours-2": {
+   "seconds": 4,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 2
+    }
+   ]
+  },
+  "ret-library-hours": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  },
+  "card-end": {
+   "seconds": 3,
+   "segments": [
+    {
+     "file": "seg_000.m4s",
+     "seconds": 2
+    },
+    {
+     "file": "seg_001.m4s",
+     "seconds": 1
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "how3-guide-player",
+  "version": "1.0.0",
+  "description": "The guide player and guide finder UI from how3 guides, running standalone on a demo guide.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.9"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env demo/server.mjs",
+    "test": "node --test \"tests/*.test.mjs\"",
+    "make:video": "node scripts/make-demo-video.mjs"
+  }
+}
