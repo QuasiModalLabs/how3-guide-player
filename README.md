@@ -4,6 +4,8 @@ My grandma messaged me: *"I'm on the website. Where do I click?"* I sent her a s
 
 So I built step-by-step guides. You say what you need in your own words and get a short video of every step on the official website: filmed on a phone or a computer, one task at a time, with a pause after each task so you can do it for real.
 
+https://github.com/user-attachments/assets/3a250029-b668-4572-9e7f-4f7aa93e008c
+
 ## Try it
 
 **https://guides.quasimodal.click**
