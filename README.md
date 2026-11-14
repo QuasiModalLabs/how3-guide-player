@@ -77,4 +77,4 @@ Unofficial demo. Not affiliated with GOV.UK, the Queensland Government, the Reve
 
 ## Licence
 
-MIT, see [LICENSE](LICENSE). The fonts (Atkinson Hyperlegible, SIL Open Font License) and hls.js (Apache 2.0) keep their own licences. Made by QuasiModal Labs.
+MIT, see [LICENSE](LICENSE). Third-party files keep their own licences: the fonts in `public/fonts/` (Atkinson Hyperlegible, SIL Open Font License 1.1, see `public/fonts/OFL.txt`) and hls.js 1.7.3 in `public/vendor/hls.js/` (Apache License 2.0, see `public/vendor/hls.js/LICENSE`). Made by QuasiModal Labs.
